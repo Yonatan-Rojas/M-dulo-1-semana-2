@@ -1,0 +1,16 @@
+Pregunta 9 — Reflexión de la semana
+escribe un texto de 8 a 10 líneas.
+
+Respustas:
+
+Pienso que para un desarrollador es importante saber usar la terminal
+porque hace el trabajo más fácil y rápido, a veces es más práctico
+usar comandos para entrar a carpetas o mover archivos que
+hacerlo buscando todo manualmente, también sirve para organizar
+mejor los proyectos y mantener todo en orden, además muchas
+herramientas como Git se usan bastante desde la terminal
+así que saber manejarla ayuda mucho cuando se trabaja en equipo
+al principio puede parecer difícil o enredada, pero cuando uno la aprende
+se da cuenta de que ahorra tiempo tambien ayuda a entender mejor como 
+funciona un proyecto desde adentro, por eso creo que aprender 
+a usar la terminal es algo muy util para cualquier desarrollador.
